@@ -1,0 +1,9 @@
+-- Select By ID
+-- Query all columns for the city with ID = 1661
+
+SELECT *
+FROM CITY
+WHERE ID = 1661;
+
+Your Output (stdout)
+1661 Sayama JPN Saitama 162472
