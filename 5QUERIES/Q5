@@ -1,0 +1,13 @@
+-- Japanese Cities' Names
+-- Query names of all cities in Japan
+
+SELECT NAME
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
+
+Your Output (stdout)
+Neyagawa
+Ageo
+Sayama
+Omuta
+Tokuyama
